@@ -1,2 +1,2 @@
 @echo off
-php bot.php
+php bot.php %*

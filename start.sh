@@ -1,2 +1,2 @@
 #!/bin/sh
-php bot.php
+php bot.php "$@"
